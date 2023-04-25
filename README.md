@@ -1,4 +1,3 @@
- <title>Lista de Tarefas</title>
   </head>
   <body>
     <h1>Lista de Tarefas</h1>
